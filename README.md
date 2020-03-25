@@ -9,6 +9,7 @@ data to Brazil.
 
 --
 --
-Data from World Health Organization (WHO): https://www.who.int/ --
+Data from World Health Organization (WHO): https://www.who.int/ 
+
 Developed by @jaccon
 
